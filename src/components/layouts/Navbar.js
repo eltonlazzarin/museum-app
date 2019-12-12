@@ -1,12 +1,12 @@
-import React from 'react';
-import logo from '../../logo.svg';
-import { Link } from 'react-router-dom';
+import React from "react";
+import logo from "../../../public/logo.png";
+import { Link } from "react-router-dom";
 
 export default function Navbar() {
   return (
     <nav className="navbar navbar-expand-lg navbar-light bg-dark">
       <a className="navbar-brand ml-5" href="/">
-        <img src={logo} alt="logo" style={{ width: '35px' }} />
+        <img src={logo} alt="logo" style={{ width: "35px" }} />
       </a>
       <button
         className="navbar-toggler"
@@ -18,14 +18,17 @@ export default function Navbar() {
         aria-label="Toggle navigation"
       >
         <span>
-          <i className="fas fa-bars" style={{ color: '#fff' }} />
+          <i className="fas fa-bars" style={{ color: "#fff" }} />
         </span>
       </button>
 
       <div className="collapse navbar-collapse" id="navbarSupportedContent">
         <ul className="navbar-nav m-auto">
           <li className="nav-item active">
-            <Link className="nav-link text-white text-uppercase ml-5 active" to="/">
+            <Link
+              className="nav-link text-white text-uppercase ml-5 active"
+              to="/"
+            >
               Home
               <span className="sr-only">(current)</span>
             </Link>
