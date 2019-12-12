@@ -1,5 +1,5 @@
-import React from 'react';
-import styled from 'styled-components';
+import React from "react";
+import styled from "styled-components";
 
 export default function Footer() {
   return (
@@ -12,16 +12,24 @@ export default function Footer() {
               <h4>About Us</h4>
               <ul className="list-unstyled">
                 <li>
-                  <a href="/" class="text-decoration-none">Our Leadership</a>
+                  <a href="/" className="text-decoration-none">
+                    Our Leadership
+                  </a>
                 </li>
                 <li>
-                  <a href="/" class="text-decoration-none">History</a>
+                  <a href="/" className="text-decoration-none">
+                    History
+                  </a>
                 </li>
                 <li>
-                  <a href="/" class="text-decoration-none">Alliances</a>
+                  <a href="/" className="text-decoration-none">
+                    Alliances
+                  </a>
                 </li>
                 <li>
-                  <a href="/" class="text-decoration-none">Careers</a>
+                  <a href="/" className="text-decoration-none">
+                    Careers
+                  </a>
                 </li>
               </ul>
             </div>
@@ -30,13 +38,19 @@ export default function Footer() {
               <h4>Why Visit Us</h4>
               <ul className="list-unstyled">
                 <li>
-                  <a href="/" class="text-decoration-none">What to Expect</a>
+                  <a href="/" className="text-decoration-none">
+                    What to Expect
+                  </a>
                 </li>
                 <li>
-                  <a href="/" class="text-decoration-none">Our Attractions</a>
+                  <a href="/" className="text-decoration-none">
+                    Our Attractions
+                  </a>
                 </li>
                 <li>
-                  <a href="/" class="text-decoration-none">Next Events</a>
+                  <a href="/" className="text-decoration-none">
+                    Next Events
+                  </a>
                 </li>
               </ul>
             </div>
@@ -45,16 +59,32 @@ export default function Footer() {
               <h4>Connect</h4>
               <ul className="list-unstyled text-decoration-none">
                 <li>
-                  <i className="fab fa-linkedin" />&nbsp;&nbsp;<a href="/" class="text-decoration-none">LinkedIn</a>
+                  <i className="fab fa-linkedin" />
+                  &nbsp;&nbsp;
+                  <a href="/" class="text-decoration-none">
+                    LinkedIn
+                  </a>
                 </li>
                 <li>
-                  <i className="fab fa-facebook" />&nbsp;&nbsp;<a href="/" class="text-decoration-none">Facebook</a>
+                  <i className="fab fa-facebook" />
+                  &nbsp;&nbsp;
+                  <a href="/" class="text-decoration-none">
+                    Facebook
+                  </a>
                 </li>
                 <li>
-                  <i className="fab fa-twitter" />&nbsp;&nbsp;<a href="/" class="text-decoration-none">Twitter</a>
+                  <i className="fab fa-twitter" />
+                  &nbsp;&nbsp;
+                  <a href="/" class="text-decoration-none">
+                    Twitter
+                  </a>
                 </li>
                 <li>
-                  <i className="fab fa-youtube" />&nbsp;&nbsp;<a href="/" class="text-decoration-none">YouTube</a>
+                  <i className="fab fa-youtube" />
+                  &nbsp;&nbsp;
+                  <a href="/" class="text-decoration-none">
+                    YouTube
+                  </a>
                 </li>
               </ul>
             </div>
