@@ -1,7 +1,7 @@
 <h1 align="center">
     <img alt="" src="https://github.com/eltonlazzarin/museum-app/blob/master/src/screenshots/header.png" />
     <br>
-    Page of a museum showing his works of art
+    Page of a museum showing its works of art
 </h1>
 
 <h4 align="center">
