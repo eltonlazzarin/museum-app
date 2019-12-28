@@ -1,6 +1,6 @@
-import React, { Component } from 'react';
-import * as data from '../data';
-import { Link } from 'react-router-dom';
+import React, { Component } from "react";
+import * as data from "../data";
+import { Link } from "react-router-dom";
 
 export default class Contacts extends Component {
   render() {
@@ -18,11 +18,12 @@ export default class Contacts extends Component {
               <iframe
                 src={data.detailInfo.maps}
                 style={{
-                  border: '0',
-                  width: '100%',
-                  height: '315px',
-                  frameborder: '0'
+                  border: "0",
+                  width: "100%",
+                  height: "315px",
+                  frameborder: "0"
                 }}
+                title={data.detailInfo.id}
                 allowFullscreen
               />
             </div>
