@@ -1,12 +1,7 @@
 <<<<<<< HEAD
 import React from 'react';
-import logo from '../../../public/logo.svg';
+import logo from '../../logo/logo.svg';
 import { Link } from 'react-router-dom';
-=======
-import React from "react";
-import logo from "../../../public/logo.png";
-import { Link } from "react-router-dom";
->>>>>>> 9297a7dfd79575d460aaea91ec65fb7dc56ffb75
 
 export default function Navbar() {
   return (
