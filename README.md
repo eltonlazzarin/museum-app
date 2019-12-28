@@ -16,6 +16,8 @@
 
   <img alt="GitHub issues" src="https://img.shields.io/github/issues/eltonlazzarin/museum-app">
 
+  <img src="https://api.netlify.com/api/v1/badges/250ee417-9e24-4fb8-a874-59376a577cd2/deploy-status" alt="Netlify Status">
+
 ### :rocket: Frontend Technologies (WebApp)
 
 <img alt="Github Search Page" src="https://github.com/eltonlazzarin/museum-app/blob/master/src/screenshots/mainPage.png">
