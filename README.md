@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="" src="https://github.com/eltonlazzarin/museum-app/blob/master/src/logo/logo.svg" style="background:#000; width: 100px; height:100px" />
+    <img alt="" src="https://github.com/eltonlazzarin/museum-app/blob/master/src/logo/logo.svg" style="background:#000; width: 100px; height:100px;" />
     <br>
     Page of a museum showing his works of art
 </h1>
