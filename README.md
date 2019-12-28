@@ -1,5 +1,3 @@
-# museum-app
-Page of a museum showing his works of art. Developed in ReactJS.
 <h1 align="center">
     <img alt="" src="" />
     <br>
