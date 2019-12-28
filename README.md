@@ -20,7 +20,9 @@ Page of a museum showing his works of art. Developed in ReactJS.
 
 ### :rocket: Frontend Technologies (WebApp)
 
-<img alt="Github Search Page" src="https://github.com/eltonlazzarin/github-search-repositories-clone/blob/master/src/screenshot/searchPage.png">
+<img alt="Github Search Page" src="https://github.com/eltonlazzarin/museum-app/blob/master/src/screenshots/mainPage.png">
+
+<img alt="Github Search Page" src="https://github.com/eltonlazzarin/museum-app/blob/master/src/screenshots/mainFooter.png">
 
 - [ReactJS](https://reactjs.org/)
 - [React Router v4](https://github.com/ReactTraining/react-router)
